@@ -1,4 +1,4 @@
-class Computer
+class Codemaker
   @@code_colors = ["red", "orange", "yellow", "green", "blue", "purple"]
 
   def initialize
