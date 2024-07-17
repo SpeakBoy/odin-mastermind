@@ -30,7 +30,6 @@ class Computer
           guess_code.push("none")
         end
       end
-      print "#{user_guess_hash}, #{guess_code} \n"
     end
     guess_code.shuffle
   end
