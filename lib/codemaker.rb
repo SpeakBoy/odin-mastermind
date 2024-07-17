@@ -1,7 +1,7 @@
 class Codemaker
-  @@code_colors = ["red", "orange", "yellow", "green", "blue", "purple"]
 
   def initialize
+    @code_colors = ["red", "orange", "yellow", "green", "blue", "purple"]
     @code = nil
   end
 
