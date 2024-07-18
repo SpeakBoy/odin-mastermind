@@ -10,7 +10,7 @@ class Codemaker
   def generate_code
     code = []
     (0...4).each do
-      code.push(@@code_colors.sample)
+      code.push(@code_colors.sample)
     end
     code
   end
