@@ -48,7 +48,6 @@ class Game
     computer.code = computer.generate_code
     while @turns < 12
       @turns += 1
-      print "\n#{computer.code}"
       player_codebreaker_turn(@turns, player, computer)
       display_guesses_and_responses
       if check_for_codebreaker_win(@guesses.last, computer.code) == true
