@@ -1,5 +1,0 @@
-To Do List
-
-1. Allow player to become codemaker, and thus computer as codebreaker. Would require additional methods to be made.
-2. Colorize the "pegs" for visual clarity, also possibly change display to show circles and not just the words representing the colors.
-3. Finish adding the rules.
